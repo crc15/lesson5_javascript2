@@ -14,11 +14,11 @@ In this assignment, we have to create a Tax Bracket Calculator to determine the 
 actual tax rate and tax amount for the user based on the users' input. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://crc15.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. 
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that in order for the "Clear Calculator" button to work, we need to add the GetElementById() method and add empty quotations as the value. 
+ ex:  document.getElementById("taxBracket").innerHTML=""; .
+2. I learned that it is much harder to do the else if statements versus switch statements. It is a much longer process and also much harder for the coder to read, but it does execute the same result.
+3. The innerHTML property used with the document.getElementById() sets or returns the HTML content (inner HTML) of an element.
 
